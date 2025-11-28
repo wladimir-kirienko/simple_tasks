@@ -19,6 +19,5 @@ def main():
     seq = random.sample(range(1, 11), n)    
     bubble_sort(seq)
 
-
 main()
 
