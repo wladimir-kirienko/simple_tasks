@@ -1,5 +1,4 @@
 
-
 def draw_pyramid(base = 5):
     half = base // 2
 
